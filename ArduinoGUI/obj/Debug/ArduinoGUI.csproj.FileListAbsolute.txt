@@ -1,0 +1,12 @@
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Debug\ArduinoGUI.exe.config
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Debug\ArduinoGUI.exe
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Debug\ArduinoGUI.pdb
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.csprojResolveAssemblyReference.cache
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.Form1.resources
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.Properties.Resources.resources
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.csproj.GenerateResource.Cache
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.exe
+c:\users\perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.pdb
+c:\Users\Perla\Documents\Visual Studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Debug\AGauge.dll
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.SerialMonitor.resources
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.PlotWindow.resources

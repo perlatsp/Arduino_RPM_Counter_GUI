@@ -1,0 +1,11 @@
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Release\ArduinoGUI.exe.config
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Release\ArduinoGUI.exe
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Release\ArduinoGUI.pdb
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\bin\Release\AGauge.dll
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Release\ArduinoGUI.Form1.resources
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Release\ArduinoGUI.Properties.Resources.resources
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Release\ArduinoGUI.SerialMonitor.resources
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Release\ArduinoGUI.csproj.GenerateResource.Cache
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Release\ArduinoGUI.exe
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Release\ArduinoGUI.pdb
+C:\Users\Perla\documents\visual studio 2015\Projects\ArduinoGUI\ArduinoGUI\obj\Release\ArduinoGUI.PlotWindow.resources
